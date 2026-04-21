@@ -1,4 +1,4 @@
-# Generador de Búsqueda de Empleos IA (n8n + Gemini + Telegram)
+# Generador de Prompts para Búsqueda de Empleos IA (n8n + Gemini + Telegram)
 
 <img width="3368" height="1798" alt="image" src="https://github.com/user-attachments/assets/cbc18284-9691-4cfa-8945-c7da1f9ca7a5" />
 
